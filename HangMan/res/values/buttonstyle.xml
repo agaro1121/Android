@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="buttons">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textColor">@color/buttonstates</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:onClick">onClick</item>
+	  	<item name="android:layout_weight">1</item>
+	  	<item name="android:freezesText">true</item>
+    </style>
+
+</resources>
